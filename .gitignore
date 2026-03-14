@@ -1,0 +1,15 @@
+3lc-env/
+data/
+best_model.pth
+__pycache__/
+*.pyc
+*.log
+*.zip
+submission.csv
+cycle_train_1.log
+latest_train_run.log
+latest_predict_run.log
+batch_train_logs/
+auto_runs/
+*.pth
+.env
